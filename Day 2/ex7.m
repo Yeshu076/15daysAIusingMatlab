@@ -1,0 +1,11 @@
+clc;
+clear;
+close all;
+a=imread('cameraman.tif');
+b=edge(a,'canny');
+c=edge(a,'sobel');
+d=edge(a,'prewitt');
+subplot(2,2,1);imshow(a);
+subplot(2,2,2);imshow(b);
+subplot(2,2,3);imshow(c);
+subplot(2,2,4);imshow(d);
