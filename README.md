@@ -21,5 +21,13 @@
    -Histogram Equalization and contrast Enhancement
    -Boundary labeling and Counting
 
+## Day 3:
+  **Computer vision using matlab**:
+    -Image acquisition
+    -Pre processing
+    -Feature Extraction
+    -Detections
+    -Recognition/Interpretation
+
   
 
