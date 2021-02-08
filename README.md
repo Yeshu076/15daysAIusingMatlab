@@ -28,6 +28,16 @@
     -Feature Extraction
     -Detections
     -Recognition/Interpretation
+    
+## Day 4:
+   **Video Processing using matlab**:
+    -How to Read  Video
+    -How to Extract Frames from Video 
+    -How to  Convert Frames to Video
+    -How to acquire Video from a camera
+    -Real Time Edge detection
+    -Adding Noise to video and Filtering
+
 
   
 
