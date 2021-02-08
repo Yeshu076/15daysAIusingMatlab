@@ -1,0 +1,10 @@
+clc;
+clear;
+detector=vision.CascadeObjectDetector;
+a=imread('2.jpg');
+imshow(a);
+BoundingBox= step(detector,a);
+RGB = insertObjectAnnotation(a,'rectangle',BoundingBox,'Face');
+figure;
+imshow(RGB);
+impixelinfo;
