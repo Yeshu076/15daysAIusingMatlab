@@ -1,4 +1,0 @@
- caUserInput = 'Human Detected';
-    NET.addAssembly('System.Speech');
-    obj = System.Speech.Synthesis.SpeechSynthesizer;
-    Speak(obj, caUserInput);;
