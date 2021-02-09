@@ -1,8 +1,7 @@
 # 15 days AI using Matlab Series
 
 ## Day 1:
-
-**Refreshed basics**:
+### Refreshed basics:
   -Scripts and live Scripts
   -Variables, Arrays and Matrices
   -Loops and Functions
@@ -10,7 +9,7 @@
   -Importing and Exporting diffrent file formats
   
 ## Day 2:
- **Image Processing using Matlab**:
+### Image Processing using Matlab:
    -How to Read and Store Image, View Pixel
    -Types of Images (Colour,Grayscale,Binary)
    -Mathematical Operations in Image
@@ -22,7 +21,7 @@
    -Boundary labeling and Counting
 
 ## Day 3:
-  **Computer vision using matlab**:
+### Computer vision using matlab:
     -Image acquisition
     -Pre processing
     -Feature Extraction
@@ -30,13 +29,24 @@
     -Recognition/Interpretation
     
 ## Day 4:
-   **Video Processing using matlab**:
+### Video Processing using matlab:
     -How to Read  Video
     -How to Extract Frames from Video 
     -How to  Convert Frames to Video
     -How to acquire Video from a camera
     -Real Time Edge detection
     -Adding Noise to video and Filtering
+    
+## Day 5:
+### Neural Network Design using matlab:
+    -Single layer Neural Network
+    -Shallow or Multilayer Neural network
+    -Deep neural networks
+    -Supervised Learning
+    -Cancer detection-mini project
+    
+    
+    
 
 
   
