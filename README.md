@@ -45,6 +45,21 @@
     -Supervised Learning
     -Cancer detection-mini project
     
+## Day 6:
+### Feature Extraction using matlab:
+    -Wavelet
+    -DCT
+    -Harris Features -Corner
+    -HoG features (Histogram of Gradients)-Object
+    -LBP features(Local Binary Pattern) -Texture
+    -MSER Features –Maximally Stable Extremal Regions (MSER) -blob
+    -Surf features - Object
+    -Eigen Features –Corner using Eigen Value Algorithm
+    -Fast Features -Corner
+    -GLCM Features -Texture
+    -Gabor Features –Texture Analysis using Gabor filters
+
+    
     
     
 
