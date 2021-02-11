@@ -58,6 +58,19 @@
     -Fast Features -Corner
     -GLCM Features -Texture
     -Gabor Features –Texture Analysis using Gabor filters
+   
+ ## Day 7:
+### Machine Learning using matlab:  
+    -Supervised learning
+    -Unsupervised learning
+    -Reinforcement Learning
+    -Ensemble Learning
+    -Digit Classification using SVM Algorithm
+    -Classification Learner module
+
+    
+    
+    
 
     
     
