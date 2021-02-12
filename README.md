@@ -60,13 +60,24 @@
     -Gabor Features –Texture Analysis using Gabor filters
    
  ## Day 7:
-### Machine Learning using matlab:  
+### Machine Learning using matlab(SVM):  
     -Supervised learning
     -Unsupervised learning
     -Reinforcement Learning
     -Ensemble Learning
     -Digit Classification using SVM Algorithm
     -Classification Learner module
+
+ ## Day 8:
+### Machine Learning using matlab(KNN):
+    -What is KNN
+    -How does a KNN algorithm work
+    -Distance Measure
+    
+
+    
+ 
+ 
 
     
     
