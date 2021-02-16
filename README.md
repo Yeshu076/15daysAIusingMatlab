@@ -74,6 +74,16 @@
     -How does a KNN algorithm work
     -Distance Measure
     
+##  Day 9:
+### Deep Learning using matlab:
+    -What is Deep Learning
+    -Reinforcement Learning
+    -Ensemble Learning
+    -Deep Learning Data types
+    -Different Neural Networks for Different Data
+    -Neural Networks
+    
+    
 
     
  
