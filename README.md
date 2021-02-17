@@ -83,6 +83,12 @@
     -Different Neural Networks for Different Data
     -Neural Networks
     
+##  Day 19:
+### Supervised Learning Using Transfer Learning Matlab
+    -What is Deep Learning
+    -Why use transfer Learning
+    -An example on how to work
+    
     
 
     
