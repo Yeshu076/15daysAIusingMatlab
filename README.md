@@ -83,11 +83,19 @@
     -Different Neural Networks for Different Data
     -Neural Networks
     
-##  Day 19:
+##  Day 10:
 ### Supervised Learning Using Transfer Learning Matlab
     -What is Deep Learning
     -Why use transfer Learning
     -An example on how to work
+ 
+## Day 11:
+## Unsupervised Learning Using Matlab
+    -What is Clustering
+    -What is K means
+    -Algorithm of Principal Component Analysis (PCA)
+    -An example on how to work
+    
     
     
 
