@@ -118,6 +118,18 @@
     -Reinforcement Learning Process and examples
     -An example of Reinforcement Learning  
     
+## Day 15:
+## Jetson Nano Programming using Matlab
+    -What is Jetson Nano
+    -Jetson Nano Specifications
+    -Jetson SDK:The details
+    -How to deploy on Nvidia Boards
+    -Setting up everything
+    -An example of Jetson nano programming
+    
+    
+    
+    
         
     
     
