@@ -111,6 +111,15 @@
     -What is Semantic Segmentation
     -Semantic Segmentation Network
     -An example of Semantic Segmentation
+   
+## Day 14:
+## Reinforcement Learning using Matlab
+    -What is Reinforcement Learning?
+    -Reinforcement Learning Process and examples
+    -An example of Reinforcement Learning  
+    
+        
+    
     
     
     
