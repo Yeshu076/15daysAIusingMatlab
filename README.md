@@ -104,6 +104,15 @@
     -Types and summary of RCNN
     -An example of RCNN
     
+## Day 13:
+## Semantic Segmentation using Deep Learning
+    -What is Image Segmentation
+    -Types of Segmentation Basis
+    -What is Semantic Segmentation
+    -Semantic Segmentation Network
+    -An example of Semantic Segmentation
+    
+    
     
     
 
